@@ -1,5 +1,9 @@
-# classification
-Homework for Classification
+# Classification
+## Homework for Classification
+
+# General Introduction
+
+This readme file is divided into three (3) main sections: 1) Resampling, 2) Ensemble, 3) General Conclusion. The Resampling section covers oversampling (including naive random oversampling and Synthetic Minority Over Sampling (SMOTE) technique), undersampling (mainly use of cluster centroids), and combination (over and under sampling) featuring SMOTE and Edited Nearest Neighbors (SMOTTEENN) sampling techniques. In terms of the Ensemble section, the Ensemble section covers ensemble learning with a balanced random forest classifier and ensemble learning with an easy ensemble classifier. The General Conclusion aims to answer the green questions in the homework assignment readme file.
 
 
 
